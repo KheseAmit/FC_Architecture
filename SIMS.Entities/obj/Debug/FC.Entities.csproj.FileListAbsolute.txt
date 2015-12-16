@@ -1,0 +1,11 @@
+D:\Amit_Personal\MyProjects\FastCodeinxSIMS\SIMS.Entities\bin\Debug\SIMS.Entities.dll.config
+D:\Amit_Personal\MyProjects\FastCodeinxSIMS\SIMS.Entities\bin\Debug\SIMS.Entities.dll
+D:\Amit_Personal\MyProjects\FastCodeinxSIMS\SIMS.Entities\bin\Debug\SIMS.Entities.pdb
+D:\Amit_Personal\MyProjects\FastCodeinxSIMS\SIMS.Entities\bin\Debug\EntityFramework.dll
+D:\Amit_Personal\MyProjects\FastCodeinxSIMS\SIMS.Entities\bin\Debug\EntityFramework.SqlServer.dll
+D:\Amit_Personal\MyProjects\FastCodeinxSIMS\SIMS.Entities\bin\Debug\EntityFramework.xml
+D:\Amit_Personal\MyProjects\FastCodeinxSIMS\SIMS.Entities\bin\Debug\EntityFramework.SqlServer.xml
+D:\Amit_Personal\MyProjects\FastCodeinxSIMS\SIMS.Entities\obj\Debug\SIMS.Entities.dll
+D:\Amit_Personal\MyProjects\FastCodeinxSIMS\SIMS.Entities\obj\Debug\SIMS.Entities.pdb
+D:\Amit_Personal\MyProjects\FastCodeinxSIMS\SIMS.Entities\obj\Debug\SIMS.Entities.Migrations.AddUrl.resources
+D:\Amit_Personal\MyProjects\FastCodeinxSIMS\SIMS.Entities\obj\Debug\FC.Entities.csproj.GenerateResource.Cache

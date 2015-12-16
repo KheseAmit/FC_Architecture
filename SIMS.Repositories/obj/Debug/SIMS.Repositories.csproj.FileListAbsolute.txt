@@ -1,0 +1,12 @@
+D:\Amit_Personal\MyProjects\FastCodeinxSIMS\SIMS.Repositories\bin\Debug\SIMS.Repositories.dll
+D:\Amit_Personal\MyProjects\FastCodeinxSIMS\SIMS.Repositories\bin\Debug\SIMS.Repositories.pdb
+D:\Amit_Personal\MyProjects\FastCodeinxSIMS\SIMS.Repositories\obj\Debug\SIMS.Repositories.dll
+D:\Amit_Personal\MyProjects\FastCodeinxSIMS\SIMS.Repositories\obj\Debug\SIMS.Repositories.pdb
+D:\Amit_Personal\MyProjects\FastCodeinxSIMS\SIMS.Repositories\obj\Debug\SIMS.Repositories.csprojResolveAssemblyReference.cache
+D:\Amit_Personal\MyProjects\FastCodeinxSIMS\SIMS.Repositories\bin\Debug\SIMS.Repositories.dll.config
+D:\Amit_Personal\MyProjects\FastCodeinxSIMS\SIMS.Repositories\bin\Debug\EntityFramework.dll
+D:\Amit_Personal\MyProjects\FastCodeinxSIMS\SIMS.Repositories\bin\Debug\EntityFramework.SqlServer.dll
+D:\Amit_Personal\MyProjects\FastCodeinxSIMS\SIMS.Repositories\bin\Debug\SIMS.Entities.dll
+D:\Amit_Personal\MyProjects\FastCodeinxSIMS\SIMS.Repositories\bin\Debug\SIMS.Entities.pdb
+D:\Amit_Personal\MyProjects\FastCodeinxSIMS\SIMS.Repositories\bin\Debug\EntityFramework.xml
+D:\Amit_Personal\MyProjects\FastCodeinxSIMS\SIMS.Repositories\bin\Debug\EntityFramework.SqlServer.xml
